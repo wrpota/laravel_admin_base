@@ -1,0 +1,6 @@
+.lay-validate-error {
+    margin-left: 10px;
+    padding-bottom: 0px !important;
+    color: #FF5722;
+    display: none;
+}
